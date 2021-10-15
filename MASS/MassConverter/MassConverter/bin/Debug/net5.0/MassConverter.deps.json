@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MassConverter/1.0.0": {
+        "dependencies": {
+          "MassConverterLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MassConverter.dll": {}
+        }
+      },
+      "MassConverterLibrary/1.0.0": {
+        "runtime": {
+          "MassConverterLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MassConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MassConverterLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
